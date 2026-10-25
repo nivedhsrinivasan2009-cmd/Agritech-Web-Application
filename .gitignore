@@ -1,0 +1,49 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Build outputs
+dist
+build
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage
+
+# Cache
+.cache
+.parcel-cache
+.vercel
+
+# Windows reserved files
+*nul*
+
+# Third-party binaries (e.g. ngrok, cloudflared)
+*.exe
+
+# Local tool settings
+.claude/
+
+# Logs and test reports
+*.log
+junit.xml
