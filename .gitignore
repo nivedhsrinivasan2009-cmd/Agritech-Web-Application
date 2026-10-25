@@ -41,9 +41,6 @@ coverage
 # Third-party binaries (e.g. ngrok, cloudflared)
 *.exe
 
-# Local tool settings
-.claude/
-
 # Logs and test reports
 *.log
 junit.xml
